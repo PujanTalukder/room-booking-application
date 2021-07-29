@@ -1,0 +1,70 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.add-room {
+  margin: 15px 0px;
+}
+
+.link button {
+  background-color: #1d0ef1;
+  color: white;
+  border: none;
+  padding: 10px 10px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.link button:hover {
+  background-color: #2f23d3;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+.link:hover {
+  color: white;
+}
+
+.logs h2 {
+  font-size: 30px;
+  font-weight: 700;
+  color: black;
+}
+
+#update-button {
+  border: none;
+  background-color: #0dc61d;
+  text-align: center;
+  padding: 5px 12px;
+  margin-right: 4px;
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+#delete-button {
+  border: none;
+  background-color: #df0101;
+  text-align: center;
+  padding: 5px 8px;
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  margin-left: 4px;
+}
+
+.update-link {
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
+
+.update-link:hover {
+  color: white;
+}
